@@ -1,15 +1,18 @@
 body {
 	background-color: #90E0EF;
 }
-header {background-color: #ACF7C1;
+.header {
+	background-color: #A599B5;
+	height: 100px; 
+	width:99%;
 }
 
 
-A599B5- glossy grape
+/*A599B5- glossy grape
 
 2B4162- indigo dye
 
-A53860- maroon
+A53860- maroon 
 
 90E0EF- sky blue
 
@@ -23,5 +26,5 @@ CSS Rules
 font-family: 'Ultra', serif;
 
 
-Zilla Slab Highlight - 
+Zilla Slab Highlight - */
 
